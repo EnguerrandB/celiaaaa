@@ -3811,7 +3811,7 @@ figcaption {
 
 .process_card.is-purple {
   background-color: var(--blue);
-  color: var(--white);
+  /* color: var(--white); */
 }
 
 .icon-lg_wrap {
@@ -4622,7 +4622,7 @@ figcaption {
 }
 
 .nav-logo {
-  width: 100%;
+  /* width: 100%; */
   max-width: none;
   height: 100%;
   display: block;
