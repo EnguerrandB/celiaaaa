@@ -3169,7 +3169,7 @@ figcaption {
 
 .padding-section-medium {
   padding-top: 7rem;
-  padding-bottom: 7rem;
+  /* padding-bottom: 7rem; */
 }
 
 .container-medium {
@@ -3797,7 +3797,7 @@ figcaption {
   flex-flow: column;
   justify-content: space-between;
   align-items: flex-start;
-  height: 26rem;
+  height: 23rem;
   padding: 2rem;
   font-size: 1.125rem;
   line-height: 1.1;
@@ -4066,7 +4066,7 @@ figcaption {
 
 .portfolio_img-wrap {
   aspect-ratio: 576 / 401;
-  background-image: url("https://cdn.prod.website-files.com/66547507d69d70a29b5cb91e/6658d90820d33692110d8206_Frame%2087-min.jpg");
+  background-image: url("../images/design-de-marque.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4080,23 +4080,23 @@ figcaption {
 }
 
 .portfolio_img-wrap.is-2 {
-  background-image: url("https://cdn.prod.website-files.com/66547507d69d70a29b5cb91e/6658d7fb22ddf19d2625e369_Frame%2084-min.jpg");
+  background-image: url("../images/Photographie.png");
 }
 
 .portfolio_img-wrap.is-3 {
-  background-image: url("https://cdn.prod.website-files.com/66547507d69d70a29b5cb91e/6658d7fb321ae916c864feb4_Frame%2082-min.jpg");
+  background-image: url("../images/Video_MotionDesign.png");
 }
 
 .portfolio_img-wrap.is-4 {
-  background-image: url("https://cdn.prod.website-files.com/66547507d69d70a29b5cb91e/6658d7fcb740e24be66b806a_Frame%2085-min.jpg");
+  background-image: url("../images/Supports_imprimes.png");
 }
 
 .portfolio_img-wrap.is-5 {
-  background-image: url("https://cdn.prod.website-files.com/66547507d69d70a29b5cb91e/6658d908733edec2811e44f8_Frame%2086-min.jpg");
+  background-image: url("../images/design-de-marque.png");
 }
 
 .portfolio_img-wrap.is-6 {
-  background-image: url("https://cdn.prod.website-files.com/66547507d69d70a29b5cb91e/6658d7fb0eca767a744467c9_Frame%2083-min.jpg");
+  background-image: url("../images/Supports_imprimes.png");
 }
 
 .wave-top {
@@ -4397,7 +4397,7 @@ figcaption {
 
 .text-btn {
   color: var(--white);
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .flex-h-ls {
@@ -4904,7 +4904,7 @@ figcaption {
 
   .padding-section-medium {
     padding-top: 4rem;
-    padding-bottom: 4rem;
+    /* padding-bottom: 4rem; */
   }
 
   .spacer-huge {
@@ -5434,7 +5434,7 @@ figcaption {
 
   .padding-section-medium {
     padding-top: 3rem;
-    padding-bottom: 3rem;
+    /* padding-bottom: 3rem; */
   }
 
   .spacer-huge {
